@@ -7,11 +7,18 @@ status: stable
 
 # Índice
 
-_Vacío. Se puebla automáticamente con cada `/ingest`._
-
 ## Methods
+- [[methods/multitask-regression-ensemble-subseasonal]] — Ensemble MultiLLR + AutoKNN para pronóstico subestacional. `draft`
+
 ## Tools
+- [[tools/subseasonalrodeo-dataset]] — Dataset SubseasonalRodeo. `draft`
+
 ## Patterns
+
 ## Findings
+- [[findings/subseasonal-forecasting-skill-gains]] — Ganancias de skill vs. CFSv2. `draft`
+
 ## Decisions
+
 ## Sources
+- [[sources/subseasonal-forecasting-western-us-ml]] — Improving Subseasonal Forecasting in the Western U.S. with Machine Learning (arXiv:1809.07394). `draft`
