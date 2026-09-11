@@ -1,10 +1,12 @@
-# Nakatow — LLM Wiki de investigación en IA/LLMs
+# Nakatow — Wiki de investigación mantenida por agentes LLM
 
 Este repositorio es una wiki mantenida por agentes LLM (Claude, Codex, otros) que combina
 el flujo de trabajo de la "LLM Wiki" de Andrej Karpathy con la estructura del
-Open Knowledge Format (OKF) de Google Cloud. Su dominio es investigación en IA/LLMs:
+Open Knowledge Format (OKF) de Google Cloud. Su dominio es investigación en general:
+IA/LLMs, ML clásico, matemática, estadística, y cualquier otra área de investigación —
 papers, repos de GitHub, notebooks de Colab, artículos y páginas web sobre modelos,
-técnicas, benchmarks y herramientas.
+técnicas, benchmarks, datasets y herramientas. No está limitado a un subcampo específico;
+cualquier fuente de investigación seria es candidata a `/ingest`.
 
 ## Capas
 
